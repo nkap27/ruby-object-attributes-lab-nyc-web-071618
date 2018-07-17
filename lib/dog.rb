@@ -1,8 +1,5 @@
 class Dog
   #Dog with names #name reads the name of the dog from an instance variable @name
-  def name(dog_name)
-    @name = dog_name
-  end
 
   def name=(dog_name)
     @name = dog_name
