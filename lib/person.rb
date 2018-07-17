@@ -7,6 +7,6 @@ class Person
     @name
   end
 
-  def job
+  def job=(persons_job)
   end
 end
