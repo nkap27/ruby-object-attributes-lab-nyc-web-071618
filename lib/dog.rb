@@ -11,7 +11,7 @@ class Dog
   #Dog with breeds #breed= writes the breed of the dog to an instance variable @breed
 
   def breed=(dog_breed)
-    @breed = dog_bread
+    @breed = dog_breed
   end
 
   #Dog with breeds #breed reads the breed of the dog from an instance variable @breed
