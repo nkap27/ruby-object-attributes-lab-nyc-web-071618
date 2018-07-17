@@ -5,6 +5,7 @@ class Dog
   end
 
   def name=(dog_name)
+    @name = dog_name
   end
 
   #Dog with breeds #breed= writes the breed of the dog to an instance variable @breed
